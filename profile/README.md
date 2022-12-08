@@ -10,4 +10,4 @@
 - 视觉效果以shadow+radius为主
 - Native App(待定flutter或者React Native)
 
-## 接口原则
+## interface style
